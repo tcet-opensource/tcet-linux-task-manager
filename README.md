@@ -21,8 +21,8 @@ TCET Linux Task Manager uses glances.
 `makepkg -si`
 
 ##### Alternative Method To Install 
-- Download the [*tcet-linux-task-manager.\*.pkg.tar.zst*](https://github.com/tcet-opensource/tcet-linux-repo/raw/main/x86_64/tcet-linux-task-manager-23.08-3-x86_64.pkg.tar.zst) file from [tcet-linux-repo](https://github.com/tcet-opensource/tcet-linux-repo).
-- Run:
+1. Download the [*tcet-linux-task-manager.\*.pkg.tar.zst*](https://github.com/tcet-opensource/tcet-linux-repo/raw/main/x86_64/tcet-linux-task-manager-23.08-3-x86_64.pkg.tar.zst) file from [tcet-linux-repo](https://github.com/tcet-opensource/tcet-linux-repo).
+1. Run:
     `pacman -U tcet-linux-task-manager.*.pkg.tar.zst`
 
 ## Credits
