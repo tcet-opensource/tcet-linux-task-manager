@@ -11,7 +11,7 @@ TCET Linux Task Manager uses glances.
 ###### For TCET Linux:
 `sudo pacman -S tcet-linux-task-manager`
 
-###### For other arch-based distros:
+###### For Other Arch-Based Distributions:
 
 1. Download *[PKGBUILD](https://raw.githubusercontent.com/tcet-opensource/tcet-linux-pkgbuild/main/apps/tcet-linux-task-manager/PKGBUILD)* from our pkgbuild [ repo](https://github.com/tcet-opensource/tcet-linux-pkgbuild/).
 
