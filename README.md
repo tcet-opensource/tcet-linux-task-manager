@@ -1,12 +1,10 @@
 # TCET Linux Task Manager 
-TCET Linux Task Manager is a system utility to manage and monitor running processes and system resources
-
+TCET Linux Task Manager is a system utility to manage and monitor running processes and system resources.
 TCET Linux Task Manager uses glances.
 
 ## Preview
 
-//todo   paste image of task manager
-
+![TCET Linux Task Manager](https://github.com/tcet-opensource/tcet-linux-assets/blob/main/task-manager.png)
 
 ## Installation
 
