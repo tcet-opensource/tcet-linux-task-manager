@@ -30,19 +30,19 @@ jobs:
           tag_name: latest
           github_token: ${{ secrets.PAT_TOKEN }}
           delete_release: true
-          
-      - name: Release Tar File
-        uses: ncipollo/release-action@v1
-        with:
-          artifacts: "*.tar.gz,checksum"
-          generateReleaseNotes: false
-          name: "TCET-Linux Wallpaper"
-          tag: ${{ env.DATE }}
 
       - name: Release Tar File with latest
         uses: ncipollo/release-action@v1
         with:
           artifacts: "*.tar.gz,checksum"
           generateReleaseNotes: false
-          name: "TCET-Linux Wallpaper"
+          name: "TCET-Linux Task Manager"
           tag: latest
+
+     - name: Release Tar File
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "*.tar.gz,checksum"
+          generateReleaseNotes: false
+          name: "TCET-Linux Task Manager"
+          tag: ${{ env.DATE }}
