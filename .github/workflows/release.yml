@@ -39,7 +39,7 @@ jobs:
           name: "TCET-Linux Task Manager"
           tag: latest
 
-     - name: Release Tar File
+      - name: Release Tar File
         uses: ncipollo/release-action@v1
         with:
           artifacts: "*.tar.gz,checksum"
