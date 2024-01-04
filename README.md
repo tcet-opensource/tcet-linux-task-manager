@@ -4,7 +4,7 @@ TCET Linux Task Manager uses glances.
 
 ## Preview
 
-![TCET Linux Task Manager](https://github.com/tcet-opensource/tcet-linux-assets/blob/main/task-manager.png)
+![TCET Linux Task Manager](https://github.com/tcet-opensource/tcet-linux-assets/blob/main/tcet-linux/task-manager.png)
 
 ## Installation
 
